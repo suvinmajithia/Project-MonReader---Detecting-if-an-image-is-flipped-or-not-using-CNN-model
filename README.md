@@ -12,7 +12,6 @@ Predict whether a page is being flipped using a single image frame.
 Collected from smartphone videos labeled as flipping and not flipping
 
 🛠 Tools & Tech
-
 Python
 TensorFlow / Keras
 CNN (Convolutional Neural Network)
